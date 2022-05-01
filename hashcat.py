@@ -7,7 +7,6 @@ client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 def menu():
     print '''
-
       $ Scan type $
 
 [0] Heavy  - 0.4ms of ttl (all ports)
